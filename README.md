@@ -5,9 +5,9 @@ This repository contains assignments and the final project for the course **INFO
 ## Repository Structure
 
 This repository is organized into multiple branches for ease of use:
-- The **main** branch only contains this `README.md` file to provide an overview.
-- The **assignments** branch contains all homework assignments completed during the course.
-- The **final project** branch includes the final project submission.
+- The `main` branch only contains this `README.md` file to provide an overview.
+- The `assignments` branch contains all homework assignments completed during the course.
+- The `final project` branch includes the final project submission.
 
 You can switch to these branches to view the corresponding files.
 
@@ -23,7 +23,7 @@ The following assignments are completed and available in the `assignments` branc
 
 ## Final Project
 
-The project can be found in the `final project` branch.
+The project can be found in the `final-project` branch.
 
 ### Investigating Global Emissions: A Data-Driven Approach to Resource Consumption and Climate Change Mitigation
 The National Footprint Accounts dataset provides a detailed record of ecological resource use and biocapacity across nations from 1961 to 2013. 
